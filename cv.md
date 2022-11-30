@@ -22,7 +22,23 @@ I am reliable and dependable and often seek new responsibilities within a wide r
 
 ## Code Examples
 ```
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>Hello!</title>
+    </head>
 
+    <body>
+    <h1>Hello world!</h1>
+    </body>
+</html>
 ```
-
 ---
+## Education
+Siberian State Automobile and Road Academy
+* Master of Engineering
+---
+## Languages
+* __Russian__ - native speaker
+* __English__ - A2
