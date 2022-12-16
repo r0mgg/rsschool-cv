@@ -1,6 +1,6 @@
 # rsschool-cv
 
-# Rinat Mukhataev ![](photo.jpg)
+# Rinat Mukhataev ![](\assets\photo.jpg)
 ---
 ## Contact information:
 __Phone__: +79826218618
