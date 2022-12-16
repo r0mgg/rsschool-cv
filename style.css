@@ -1,0 +1,123 @@
+@media (max-width: 768px) {
+    .section {
+      width: 100%;
+    }
+  }
+  
+* {
+    box-sizing: border-box;
+  }
+
+html {
+    scroll-behavior: smooth; 
+  }
+
+header {
+    top: 10px;
+    margin: 0px 0px;
+    color: #000000;
+    /background-color: #e6e6e6;
+  }
+
+body {
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 1.5;
+    color: #000000;
+    min-height: 100vh;
+    margin: 0; padding: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    background-color: #ffffff;
+    }
+
+h1 {
+  font-weight: 300;
+}
+
+.my-photo {
+  width: 320px;
+  border-radius: 160px;
+  border: 2px #ccc solid;
+}
+
+.nav-list {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    list-style: none;
+}
+
+.footer-list {
+    display: flex;
+    justify-content: flex;
+    align-items: center;
+    list-style: none;
+  }
+
+.footer_el {
+    padding: 0 50px;
+    line-height: 50px;
+}
+
+.nav-link {
+    padding: 0 20px;
+    line-height: 50px;
+    text-decoration: none;
+    transition: 0.3s;
+    }
+
+.my-link {
+    text-decoration: none;
+}
+
+.projects_list {
+    display: flex;
+    align-items: center;
+    //list-style: none;
+    text-decoration: none;
+}
+
+.container {
+    max-width: 1440px;
+    margin: 0 auto;
+    width: 50%;
+    }
+
+.main-container {
+    display: flex;
+    flex-wrap: wrap;
+    }
+
+.link {
+    text-decoration: none;
+    color: #829985;
+    transition: color 0.5s;
+    }
+    
+/.link:hover {
+    color: #5d7260;
+    }
+
+h2 {
+    font-size: 20px;
+    font-weight: 400;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    color: #829985;
+    }
+
+.github_img {
+  width: 60px;
+}
+
+.rs_img {
+  width: 70px;
+}
+
+.years {
+  font-size: 20px;
+  font-weight: 400;
+}
