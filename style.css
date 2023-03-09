@@ -3,20 +3,17 @@
       width: 100%;
     }
   }
-  
+
 * {
     box-sizing: border-box;
   }
-
 html {
-    scroll-behavior: smooth; 
+    scroll-behavior: smooth;
   }
-
 header {
     top: 10px;
     margin: 0px 0px;
     color: #000000;
-    /background-color: #e6e6e6;
   }
 
 body {
@@ -30,7 +27,7 @@ body {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
-    background-color: #ffffff;
+    background-color: #dadada;
     }
 
 h1 {
@@ -39,7 +36,7 @@ h1 {
 
 .my-photo {
   width: 320px;
-  border-radius: 160px;
+  border-radius: 100px;
   border: 2px #ccc solid;
 }
 
@@ -67,16 +64,17 @@ h1 {
     line-height: 50px;
     text-decoration: none;
     transition: 0.3s;
+    color: #000000;
     }
 
 .my-link {
     text-decoration: none;
+    color: #000000;
 }
 
 .projects_list {
-    display: flex;
+    display: block;
     align-items: center;
-    //list-style: none;
     text-decoration: none;
 }
 
@@ -95,10 +93,6 @@ h1 {
     text-decoration: none;
     color: #829985;
     transition: color 0.5s;
-    }
-    
-/.link:hover {
-    color: #5d7260;
     }
 
 h2 {
